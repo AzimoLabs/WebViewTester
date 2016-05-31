@@ -27,3 +27,5 @@ dependencies {
     testCompile 'org.hamcrest:hamcrest-library:1.1'
     testCompile 'org.hamcrest:hamcrest-integration:1.1'
 }
+
+apply from: rootProject.file('gradle/gradle-bintray-push.gradle')
