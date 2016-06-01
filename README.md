@@ -1,5 +1,7 @@
 # WebViewTester
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-WebViewTester-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/3660)
+
 Android tool to automate interaction with web pages displayed in Android WebViews. Could be especially helpful in testing UI with Espresso.
 
 So far it provides methods to:
